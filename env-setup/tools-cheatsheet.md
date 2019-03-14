@@ -3,6 +3,7 @@
 ## Create React App
 
 - `create-react-app my-react-app`
+- `npx create-react-app my-app`
 
 ## App-app
 
@@ -31,8 +32,5 @@
 → (opens a text editor for your pull request message)
 
 More info at [https://hub.github.com/](https://hub.github.com/)
-
-
-
 
 [Git-Extras](https://github.com/tj/git-extras)
